@@ -10,12 +10,12 @@ All about me
 ### Happy to see you here!  
 ![Visitors](https://komarev.com/ghpvc/?username=Sudhanshu2003&label=Profile%20Views&color=0e75b6&style=flat)  
 
-I am currently pursuing a **B.Tech in Computer Science and Engineering** from **Uttarakhand Technical University**.  
-I am interested in **Data Analytics** and currently learning **Microsoft Excel, Power BI, and SQL** through online platforms.  
+About
+I am currently pursuing a B.Tech in Computer Science and Engineering from Uttarakhand Technical University. I have a strong interest in SAP and am building my skills in SAP ABAP through training and hands-on practice.
 
-I enjoy working with data, creating visualizations, and solving problems using technology. I am eager to apply my skills and grow in the field of Data Analytics.  
+I have knowledge of SAP Data Dictionary, Table Maintenance Generator (TMG), and basic report development. I enjoy working on real-time scenarios, understanding business processes, and developing efficient SAP solutions.
 
-I also have knowledge of **C++** and **Data Structures & Algorithms (DSA)**, which strengthen my problem-solving and logical thinking.  
+Additionally, I have a foundation in C++ and Data Structures & Algorithms (DSA), which enhances my problem-solving ability and logical thinking. I am eager to apply my technical knowledge and grow as an SAP ABAP developer in a professional environment.
 
 ---
 
