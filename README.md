@@ -11,7 +11,7 @@ An Associate **SAP ABAP Developer** & CSE Graduate. Highly focused on enterprise
 
 ## ⚡ Professional Overview (Target: Entry-Level SAP Consultant)
 
-- 🎓 **Education:** Final-year B.Tech in Computer Science & Engineering (CSE).
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (CSE), Uttarakhand Technical University.
 - ⚙️ **Core Specialization:** Dedicated focus on SAP ABAP Core Backend Logic & Database Layer Operations.
 - 🏫 **Industry Training:** Completed an intensive 45-day SAP ABAP Technical Module Track at SEED Infotech.
 
